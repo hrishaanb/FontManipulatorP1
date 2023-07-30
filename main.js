@@ -12,4 +12,5 @@ function nextPage () {
         input = "Nothing";
     }
     console.log(input);
+    document.getElementById("input").innerHTML = "";
 }
