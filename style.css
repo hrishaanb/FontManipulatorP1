@@ -1,3 +1,6 @@
+body {
+    background: url("background.PNG");
+}
 .heading {
     font-size: 23px !important;
     width: 100%;
@@ -23,4 +26,8 @@ canvas {
     border: 5px solid white;
     border-radius: 20px;
     box-shadow: 5px 5px 5px grey;
+}
+#input {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
